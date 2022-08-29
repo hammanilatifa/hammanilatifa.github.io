@@ -735,8 +735,8 @@ p {
   width: 36px;
   height: 36px;
   line-height: 32px;
-  color: #CB6CE6;
-  border: 2px solid #CB6CE6;
+  color: rgb(239, 143, 201);
+  border: 2px solid rgb(239, 143, 201);
   text-align: center;
   border-radius: 50%;
   -webkit-transition: all 0.4s;
